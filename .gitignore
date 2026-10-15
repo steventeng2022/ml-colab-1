@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
+.env.*
+kaggle.json
+data/
+receiver_speed_outputs/
+receiver_speed_work/
